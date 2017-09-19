@@ -18,6 +18,8 @@ knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
 ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
+[Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
 Supervised learning techniques are used to predict the output variable (i.e. lifespan) from the input variables. The input variables consist of features like BMI (Body Mass Index), body fat percentage, drug use, food type consumption (e.g. quantity of sugar, salt, fat, protein, processed food etc.), exercising, psychological factors (e.g. stress level), socializing, hormone levels and several other factors. A training dataset that includes both the input and output variables is first used to train the model, which is then used to predict the output variable (lifespan) when given new instances of the input variables. _Live_ _Long_ uses decision tree and neural network models to accurately predict the most important features associated with longevity. 
 
 ## An end.
