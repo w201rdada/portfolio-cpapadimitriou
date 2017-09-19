@@ -13,8 +13,7 @@ Advances in health and medicine have led to life expectancy to almost double fro
 Longevity can be attributed to (1) genetic factors that cannot be controlled or changed (yet!) and (2) non-genetic factors that can be controlled by humans, such as lifestyle. This study examines weather non-genetic attributes can be used to predict longevity and, therefore, altered to increase lifespan.
 
 ![Image Source](https://fthmb.tqn.com/rL_IDYGlHhXvOg6d8lNZQTap5eQ=/768x0/filters:no_upscale()/about/200523617-001-56a7be3f3df78cf77298e792.jpg)
-
-[Live Long! Click here for Image Source](https://fthmb.tqn.com/rL_IDYGlHhXvOg6d8lNZQTap5eQ=/768x0/filters:no_upscale()/about/200523617-001-56a7be3f3df78cf77298e792.jpg)
+[#Live-Long! _Click here for Image Source_](https://fthmb.tqn.com/rL_IDYGlHhXvOg6d8lNZQTap5eQ=/768x0/filters:no_upscale()/about/200523617-001-56a7be3f3df78cf77298e792.jpg)
 
 Supervised learning techniques are used to predict the output variable (i.e. lifespan) from the input variables. The input variables consist of features like BMI (Body Mass Index), body fat percentage, drug use, food type consumption (e.g. quantity of sugar, salt, fat, protein, processed food etc.), exercising, psychological factors (e.g. stress level), socializing, hormone levels and several other factors. A training dataset that includes both the input and output variables is first used to train the model, which is then used to predict the output variable (lifespan) when given new instances of the input variables. _Live_ _Long_ uses decision tree and neural network models to accurately predict the most important features associated with longevity. 
 
