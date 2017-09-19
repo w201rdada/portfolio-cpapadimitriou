@@ -6,7 +6,7 @@ Longevity, Life Expectancy, Aging, Health, Machine Learning
 
 ## A beginning.
 
-Advances in health and medicine have led to life expectancy to almost double from the previous century. Today the average lifespan in the US is 84 years for men and 86 years for women. Can lifespan and quality of life continue to increase even further into the foreseeable future? Biotech companies have already started to invest in longevity research and intend to develop anti-aging drugs. Live Long uses machine learning algorithms to help increase human life expectancy by identifying the key factors that lead to longevity. 
+Advances in health and medicine have led to life expectancy to almost double from the previous century. Today the average lifespan in the US is 84 years for men and 86 years for women. Can lifespan and quality of life continue to increase even further into the foreseeable future? Biotech companies have already started to invest in longevity research and intend to develop anti-aging drugs. _Live_ _Long_ uses machine learning algorithms to help increase human life expectancy by identifying the key factors that lead to longevity. 
 
 ## A middle.
 
@@ -16,9 +16,10 @@ Longevity can be attributed to (1) genetic factors that cannot be controlled or 
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
-Supervised learning techniques are used to predict the output variable (i.e. lifespan) from the input variables. The input variables consist of features like BMI (Body Mass Index), body fat percentage, drug use, food type consumption (e.g. quantity of sugar, salt, fat, protein, processed food etc.), exercising, psychological factors (e.g. stress level), socializing, hormone levels and several other factors. A training dataset that includes both the input and output variables is first used to train the model, which is then used to predict the output variable (lifespan) when given new instances of the input variables. Live Long uses decision tree and neural network models to accurately predict the most important features associated with longevity. 
+Supervised learning techniques are used to predict the output variable (i.e. lifespan) from the input variables. The input variables consist of features like BMI (Body Mass Index), body fat percentage, drug use, food type consumption (e.g. quantity of sugar, salt, fat, protein, processed food etc.), exercising, psychological factors (e.g. stress level), socializing, hormone levels and several other factors. A training dataset that includes both the input and output variables is first used to train the model, which is then used to predict the output variable (lifespan) when given new instances of the input variables. _Live_ _Long_ uses decision tree and neural network models to accurately predict the most important features associated with longevity. 
 
 ## An end.
 
-Live Long has a single and undeniably valuable impact: it helps people live longer by allowing them to identify and control aspects of their lives that can increase their lifespan. However, being able to live longer could result in unintended consequences, including overpopulation of countries, inadequacy of food, water and energy resources. In order for more people to be accommodated to live in this world, an extensive planning mechanism is required to ensure that there will be enough resources to provide quality of life for everyone. Under this assumption, living longer will be considered a breakthrough for humanity. 
+_Live_ _Long_ has a single and undeniably valuable impact: it helps people live longer by allowing them to identify and control aspects of their lives that can increase their lifespan. However, being able to live longer could result in unintended consequences, including overpopulation of countries, inadequacy of food, water and energy resources. In order for more people to be accommodated to live in this world, an extensive planning mechanism is required to ensure that there will be enough resources to provide quality of life for everyone. Under this assumption, living longer will be considered a breakthrough for humanity. 
