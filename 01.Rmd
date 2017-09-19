@@ -1,24 +1,24 @@
-# My first cool idea {#slug-one}
+# Machine Learning for Longevity {#live-long}
 
 #### Keywords
 
-yaba, daba, do
+Longevity, Life Expectancy, Aging, Health, Machine Learning 
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Advances in health and medicine have led to life expectancy to almost double from the previous century. Today the average lifespan in the US is 84 years for men and 86 years for women. Can lifespan and quality of life continue to increase even further into the foreseeable future? Biotech companies have already started to invest in longevity research and intend to develop anti-aging drugs. Live Long uses machine learning algorithms to help increase human life expectancy by identifying the key factors that lead to longevity. 
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Longevity can be attributed to (1) genetic factors that cannot be controlled or changed (yet!) and (2) non-genetic factors that can be controlled by humans, such as lifestyle. This study examines weather non-genetic attributes can be used to predict longevity and, therefore, altered to increase lifespan.
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+Supervised learning techniques are used to predict the output variable (i.e. lifespan) from the input variables. The input variables consist of features like BMI (Body Mass Index), body fat percentage, drug use, food type consumption (e.g. quantity of sugar, salt, fat, protein, processed food etc.), exercising, psychological factors (e.g. stress level), socializing, hormone levels and several other factors. A training dataset that includes both the input and output variables is first used to train the model, which is then used to predict the output variable (lifespan) when given new instances of the input variables. Live Long uses decision tree and neural network models to accurately predict the most important features associated with longevity. 
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Live Long has a single and undeniably valuable impact: it helps people live longer by allowing them to identify and control aspects of their lives that can increase their lifespan. However, being able to live longer could result in unintended consequences, including overpopulation of countries, inadequacy of food, water and energy resources. In order for more people to be accommodated to live in this world, an extensive planning mechanism is required to ensure that there will be enough resources to provide quality of life for everyone. Under this assumption, living longer will be considered a breakthrough for humanity. 
