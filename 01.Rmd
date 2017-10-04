@@ -6,7 +6,7 @@ Longevity, Life Expectancy, Aging, Health, Machine Learning
 
 ## A beginning.
 
-Advances in health and medicine have led to life expectancy to almost double from the previous century. Today the average lifespan in the US is 84 years for men and 86 years for women. Can lifespan and quality of life continue to increase even further into the foreseeable future? Biotech companies have already started to invest in longevity research and intend to develop anti-aging drugs. _Live_ _Long_ uses machine learning algorithms to help increase human life expectancy by identifying the key factors that lead to longevity. 
+Advances in health and medicine have led to life expectancy to almost double from the previous century. Today the average lifespan in the US is 84 years for men and 86 years for women. Can lifespan continue to increase even further into the foreseeable future? Biotech companies have already started to invest in longevity research and intend to develop anti-aging drugs. _Live_ _Long_ uses machine learning algorithms to help increase human life expectancy by identifying the key factors that lead to longevity. 
 
 ## A middle.
 
