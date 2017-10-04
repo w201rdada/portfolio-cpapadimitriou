@@ -10,7 +10,7 @@ Advances in health and medicine have led to life expectancy to almost double fro
 
 ## A middle.
 
-Longevity can be attributed to (1) genetic factors that cannot be controlled or changed (yet!) and (2) non-genetic factors that can be controlled by humans, such as lifestyle. This study examines weather non-genetic attributes can be used to predict longevity and, therefore, altered to increase lifespan.
+Longevity can be attributed to (1) genetic factors that cannot be controlled or changed (yet!) and (2) non-genetic factors that can be controlled by humans, such as lifestyle. This study examines whether non-genetic attributes can be used to predict longevity and, therefore, altered to increase lifespan.
 
 ![Image Source](https://fthmb.tqn.com/rL_IDYGlHhXvOg6d8lNZQTap5eQ=/768x0/filters:no_upscale()/about/200523617-001-56a7be3f3df78cf77298e792.jpg)
 
