@@ -6,9 +6,7 @@ Dating, Artificial Intelligence, Love, Romance, Deep Learning
 
 ## A beginning. Dating Apps Need Improvement
 
-Online dating has evolved into a 2 billion dollar industry and one third of married couples in the US meet online.
-
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Online dating has evolved into a 2-billion-dollar industry and one third of married couples in the US meet online. However, popular dating apps like Tinder and OkCupid still use simple algorithms and questionnaires to suggest potential partners. Additionally, these dating apps match people based on their shared interests and similar personalities. But the truth is that people are not always attracted to people that are similar to them. Can we use Deep learning and neural networks to create a more refined version of the existing dating apps? Love-with-AI is a program that leverages Deep Learning to learn the user’s dating preferences and make recommendations that are closer to the user’s “type”. 
 
 ## A middle. How the Machine learns Love
 
