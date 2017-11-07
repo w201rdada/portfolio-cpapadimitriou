@@ -10,7 +10,7 @@ Online dating has evolved into a 2-billion-dollar industry and one third of marr
 
 ## How the Machine learns Love
 
-Can a machine be trained via deep learning to learn what our preferences in dating partners are? Love-with-AI uses an artificial neural network which works like a biological neural network i.e. the brain. Using deep learning, it learns from the user and builds neural network layers to get closer and closer to the “ultimate partner” recommendation. 
+Can a machine be trained via deep learning to learn what our preferences in dating partners are? Love-with-AI uses an artificial neural network which works like a biological neural network i.e. the brain. Using deep learning, it learns from the user and builds neural network layers to get closer and closer to successful partner recommendations. 
 
 The program identifies patterns in both the images and the text of the bio in each profile that is being liked or disliked by the user. By doing that, _Love-with-AI_ is able to classify the physical appearance and bio context of each potential dating partner to either “liked” or “not liked”. It then suggests partners to the user that are similar to those that he/she has liked in the past. _Love-with-AI_ also learns from the messaging context among the users within the apps. Using Natural Language Processing, _Love-with-AI_ analyzes the conversations among users to refine its dating recommendations. The program learns a set of attractiveness characteristics from the “liked” labeled profiles and the interesting conversations, and keeps refining this set every time the user uses the app. 
 
