@@ -1,25 +1,21 @@
-# Deep Learning for Dating {#love-with-ai}
+# Love with AI: Deep Learning for Dating {#Love-with-AI}
 
-#### Dating, Artificial Intelligence, Love, Romance, Deep Learning
+#### Keywords
 
-yaba, daba, do
+Dating, Artificial Intelligence, Love, Romance, Deep Learning
 
-## A beginning.
+## Dating Apps Need Improvement
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Online dating has evolved into a 2-billion-dollar industry and one third of married couples in the US meet online. However, popular dating apps like Tinder and OkCupid still use simple algorithms and questionnaires to suggest potential partners. Additionally, these dating apps match people based on their shared interests and similar personalities. But the truth is that people are not always attracted to people that are similar to them. Can we use data science to create a more refined version of the existing dating apps? _Love-with-AI_ is a program that leverages Deep Learning to learn the user’s dating preferences and make partner recommendations that are closer to the user’s “type”. 
 
-## A middle.
+## How the Machine learns Love
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+Can a machine be trained via deep learning to learn what our preferences in dating partners are? Love-with-AI uses an artificial neural network which works like a biological neural network i.e. the brain. Using deep learning, it learns from the user and builds neural network layers to get closer and closer to successful partner recommendations. 
 
+The program identifies patterns in both the images and the text of the bio in each profile that is being liked or disliked by the user. By doing that, _Love-with-AI_ is able to classify the physical appearance and bio context of each potential dating partner to either “liked” or “not liked”. It then suggests partners to the user that are similar to those that he/she has liked in the past. _Love-with-AI_ also learns from the messaging context among the users within the apps. Using Natural Language Processing, _Love-with-AI_ analyzes the conversations among users to refine its dating recommendations. The program learns a set of attractiveness characteristics from the “liked” labeled profiles and the interesting conversations, and keeps refining this set every time the user uses the app. 
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+## You Can Find Love with AI
 
+In order to relieve any user privacy concerns, _Love-with-AI_ asks for the users' consesus to leverage the program upon signing up. For example, if Tinder buys _Love-with-AI_, its users will be asked whether they want to allow the program to access their data in order to provide better dating partner recommendations.
 
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
-
-## An end.
-
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+_Love-with-AI_ gives any dating app a competitive advantage in the online dating industry. It uses cutting edge artificial intelligence technology to help people find dating partners by learning the users’ preferences from the labeled examples. The limitation that _Love-with-AI_ faces is that it is challenging to teach a machine to perfectly understand something as old fashioned as love, but this technology comes close to accurately suggesting successful dating partners. Some are attracted to similars and some are attracted to opposites, either way, _Love-with-AI_ is able to learn people’s attractiveness patterns and make suggestions accordingly. 
