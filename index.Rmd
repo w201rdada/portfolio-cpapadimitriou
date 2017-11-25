@@ -1,7 +1,7 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
-date: "MIDS Summer 2017"
+author: "Christina Papadimitriou"
+date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
 ---
@@ -27,11 +27,11 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea -- Live Long: Machine Learning for Longevity {#live-long}
+### Live Long: Machine Learning for Longevity {#live-long}
 
 Advances in health and medicine have led the life expectancy of Americans to almost double from the previous century. Today the average lifespan in the US is 84 years for men and 86 years for women. _Live Long_ uses machine learning algorithms to further increase human life expectancy by identifying key factors that lead to longevity. _Live Long_ examines the relationship between non-genetic factors like BMI (Body Mass Index), body fat percentage, drug use, food type consumption (e.g. quantity of sugar, salt, fat, protein, processed food etc.), exercising, psychological factors (e.g. stress level), socializing and hormone levels, and lifespan.  Supervised learning techniques including decision trees and neural networks are used to predict the output variable (i.e. lifespan) from the input variables that are mentioned above. _Live Long_ has a single and undeniably valuable impact: it helps people live longer by allowing them to identify and control aspects of their lives that can increase their lifespan. _Live Long_ can be a huge asset to biotech companies that invest in longevity research.
 
-### Abstract of my second cool idea -- Love with AI: Deep Learning for Dating {#Love-with-AI}
+### Love with AI: Deep Learning for Dating {#Love-with-AI}
 
 Online dating has evolved into a 2-billion-dollar industry and one third of married couples in the US meet online. _Love-with-AI_ is a product that can be leveraged by online dating apps. Using deep learning and neural networks, _Love-with-AI_ creates a more refined online dating experience than what is currently provided by the most popular dating apps. Instead of matching people solely based on their shared interests and similar personalities, _Love-with-AI_ uses an artificial neural network to “learn” the user’s attractiveness characteristics and builds layers to get closer and closer to making successful partner recommendations. _Love-with-AI_ identifies patterns in the images and bios of profiles that are marked as “liked” or “not liked” by the user, and keeps refining the set of attractiveness characteristics for each user based on the labeled examples. Attraction is an abstract concept; others are attracted to opposites and others to similars. Either way, _Love-with-AI_ is able to “learn” the attractiveness patterns of each user and suggest successful dating partners. 
   
