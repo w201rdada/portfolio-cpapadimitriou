@@ -24,10 +24,6 @@ Advances in health and medicine have led the life expectancy of Americans to alm
 ### Love with AI: Deep Learning for Dating {#Love-with-AI}
 
 Online dating has evolved into a 2-billion-dollar industry and one third of married couples in the US meet online. _Love-with-AI_ is a product that can be leveraged by online dating apps. Using deep learning and neural networks, _Love-with-AI_ creates a more refined online dating experience than what is currently provided by the most popular dating apps. Instead of matching people solely based on their shared interests and similar personalities, _Love-with-AI_ uses an artificial neural network to “learn” the user’s attractiveness characteristics and builds layers to get closer and closer to making successful partner recommendations. _Love-with-AI_ identifies patterns in the images and bios of profiles that are marked as “liked” or “not liked” by the user, and keeps refining the set of attractiveness characteristics for each user based on the labeled examples. Attraction is an abstract concept; others are attracted to opposites and others to similars. Either way, _Love-with-AI_ is able to “learn” the attractiveness patterns of each user and suggest successful dating partners. 
-  
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author
 
