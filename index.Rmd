@@ -32,6 +32,6 @@ Advances in health and medicine have led the life expectancy of Americans to alm
 
 ## About the author {-}
 
-Christina is a MIDS student at UC Berkeley and works in the area of Credit Risk Management & Analytics at JPMorgan Chase & Co. 
+Christina is a MIDS student at UC Berkeley and works in the area of Credit Risk Management & Analytics at JPMorgan Chase & Co. She is passionate about applying Data Science to the Financial Services Industry to solve challenging problems. 
 
 *Updated: `r Sys.Date()`*
