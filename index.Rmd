@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 My portfolio consists of two ideas; _Live Long_ and _Love-with-AI_. The first idea _(Live Long)_ aims to apply machine learning techniques in order to "hack" life's algolithm and enable people to live longer. The second idea _(Love-with-AI)_ aims to apply deep learning techniques in online dating apps to help people find successful dating partners. 
 
@@ -30,7 +30,7 @@ Advances in health and medicine have led the life expectancy of Americans to alm
 
 Online dating has evolved into a 2-billion-dollar industry and one third of married couples in the US meet online. _Love-with-AI_ is a product that can be leveraged by online dating apps. Using deep learning and neural networks, _Love-with-AI_ creates a more refined online dating experience than what is currently provided by the most popular dating apps. Instead of matching people solely based on their shared interests and similar personalities, _Love-with-AI_ uses an artificial neural network to “learn” the user’s attractiveness characteristics and builds layers to get closer and closer to making successful partner recommendations. _Love-with-AI_ identifies patterns in the images and bios of profiles that are marked as “liked” or “not liked” by the user, and keeps refining the set of attractiveness characteristics for each user based on the labeled examples. Attraction is an abstract concept; others are attracted to opposites and others to similars. Either way, _Love-with-AI_ is able to “learn” the attractiveness patterns of each user and suggest successful dating partners. 
 
-## About the author
+## About the author {-}
 
 Christina is a MIDS student at UC Berkeley and works in the area of Credit Risk Management & Analytics at JPMorgan Chase & Co. 
 
